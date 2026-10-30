@@ -6,17 +6,20 @@ AgentRelay connects compatible tools to Codex, Grok Bot and Antigravity on your 
 
 **[Free Local AI Hub — AgentRelay by GoodExts](https://goodexts.com/)** · [中文介绍](https://goodexts.com/zh) · [Contact / 联系我们](https://goodexts.com/contact-us)
 
+- **[AgentRelay product details](https://goodexts.com/agentrelay)** · [产品详情（中文）](https://goodexts.com/zh/agentrelay)
+- **[Connect XFollower to AgentRelay: illustrated tutorial](https://goodexts.com/blog/xfollower-agentrelay)** · [XFollower 接入教程（中文）](https://goodexts.com/zh/blog/xfollower-agentrelay)
+
 Give compatible extensions, desktop apps and web workflows a shared AI engine. AgentRelay brings your supported AI clients together behind one local address, so each tool can send work to a chosen conversation without rebuilding its context for every message.
 
 AgentRelay 是 GoodExts 产品生态的本地 AI 动力引擎：为插件、其他客户端和网页工作流提供统一接入，让采集分类、内容辅助、知识整理等任务交给指定会话持续处理。GoodExts 首页是产品主入口，插件是具体落地场景。
 
 ## See it in action / 产品与接入示例
 
-[![AgentRelay dashboard: one local address, access token and three supported AI engines](images/agentrelay-dashboard-en.png)](https://goodexts.com/)
+[![AgentRelay dashboard: one local address, access token and three supported AI engines](images/agentrelay-dashboard-en.png)](https://goodexts.com/agentrelay)
 
 The AgentRelay dashboard shows the local service address, access credentials and engine endpoints. Actual 1.3.0 UI with example data; no live credentials are shown.
 
-[![XFollower connects to AgentRelay and selects an AI engine and conversation](images/xfollower-agentrelay-en.png)](https://goodexts.com/)
+[![XFollower connects to AgentRelay and selects an AI engine and conversation](images/xfollower-agentrelay-en.png)](https://goodexts.com/blog/xfollower-agentrelay)
 
 XFollower is an X workflow extension for organizing posts, classification and assisted replies. It can use AgentRelay to route different tasks to dedicated AI conversations. This example shows the connection and conversation selector, using demonstration data. **[Contact GoodExts about XFollower](https://goodexts.com/contact-us)**.
 
