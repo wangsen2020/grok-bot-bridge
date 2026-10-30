@@ -25,7 +25,7 @@ GitHub's automatic **Source code** archives contain only this download catalog. 
 
 AgentRelay itself is free software to use. AI accounts, subscription terms, usage limits and any AI service charges still apply. The service runs locally; the selected AI provider may process requests in the cloud.
 
-## Integration / 外部接入
+## 外部接入
 
 The three engine prefixes are `/grokbot`, `/codex` and `/antigravity`. Business API requests require `Authorization: Bearer <token>`.
 
